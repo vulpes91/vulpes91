@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vulpes91
-- 👀 I’m interested in web-development, QA, design, mtb and wh40k
-- 🌱 I’m currently learning  html, css, js, QA
+- 👀 I’m interested in web-development, QA, game-design, mtb and wh40k
+- 🌱 I’m currently learning  frontend, Unity and QA
 - 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me  - lorgarheretic@gmail.com
 
